@@ -1,4 +1,4 @@
- => a - b;bool topLvl = true;
+bool topLvl = true;
 void main() {
   //Область видимости
   bool insideMain = true;
