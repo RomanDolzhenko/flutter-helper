@@ -1,3 +1,4 @@
+```dart
 bool topLvl = true;
 void main() {
   //Область видимости
@@ -154,7 +155,7 @@ streamTest() async {
 
 //==== Определение типов
 typedef Compare<T> = int Function(T a, T b);
-
+```
 
 
              
